@@ -1,0 +1,18 @@
+Los Angeles
+LAX
+LA
+US
+25
+1
+1
+N
+25
+1
+1
+W
+1
+4
+1.0E-5
+true
+true
+false

@@ -1,0 +1,9 @@
+C-CCCC
+Small Plane
+
+LAX
+24
+-1
+-1
+false
+
